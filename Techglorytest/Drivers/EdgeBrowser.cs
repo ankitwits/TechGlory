@@ -1,8 +1,8 @@
 ﻿using OpenQA.Selenium;
-using Techglorytest.Drivers;
-using Techglorytest.Factory;
+using TechGlory.Drivers;
+using TechGlory.Factory;
 
-namespace Techglorytest.Drivers
+namespace TechGlory.Drivers
 {
     internal class EdgeBrowser : IBrowser
     {

@@ -1,14 +1,17 @@
 ﻿using OpenQA.Selenium;
-using Techglorytest.Drivers;
-using Techglorytest.Factory;
+using OpenQA.Selenium.Chrome;
+using TechGlory.Drivers;
+using TechGlory.Factory;
 
-namespace Techglorytest.Drivers
+namespace TechGlory.Drivers
 {
     internal class ChromeBrowser : IBrowser
     {
         public IWebDriver createdriver()
         {
-            return null;
+            ChromeOptions options = new ChromeOptions();
+            options.AddArgument("--starts");
+            return new ChromeDriver(options);
         }
     }
 }

@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[3.141.0, )"
             },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.1.2, )"

@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Techglorytest.Factory
+namespace TechGlory.Factory
 {
     internal interface IBrowser
     {

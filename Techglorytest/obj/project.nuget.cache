@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AgjDu5E9GtMZ+NgXpBZOuvA9s7Q4fSuOwSUZgDJgO9/0qi/5Cju78F1W7kX6EjhJzyUUlwSkIsYuhqqKQU8Riw==",
+  "dgSpecHash": "ClUuTIYcgvtuAvMi4RX/Dp/dI7xpRxwYWZK4r6WH9AGJR6cVpDnzbJZKYnbHwXA2mbPM9kcNW/E6wEm28rOm1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\TechGlory\\Techglorytest\\Techglorytest.csproj",
+  "projectFilePath": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\TechGlory\\Techglorytest\\TechGlory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dino\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
@@ -18,6 +18,7 @@
     "C:\\Users\\Dino\\.nuget\\packages\\selenium.chrome.webdriver\\2.40.0\\selenium.chrome.webdriver.2.40.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
@@ -29,6 +30,7 @@
     "C:\\Users\\Dino\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
